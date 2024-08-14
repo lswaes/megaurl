@@ -1,0 +1,5 @@
+selenium
+selenium-wire
+undetected-chromedriver
+blinker==1.7.0
+cloudscraper
